@@ -52,6 +52,15 @@
 .card {
     background-color: antiquewhite;
     margin: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-color1 {
+    background-color: rgba(127, 255, 212, 0.23);
+}
+
+.bg-color2 {
+    background-color: rgba(137, 43, 226, 0.06);
 }
 
 .icon {
