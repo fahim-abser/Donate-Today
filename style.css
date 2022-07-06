@@ -35,8 +35,8 @@
 }
 
 .donate {
-    text-align: center;
     margin-top: 90px;
+    text-align: center;
 }
 
 .donate-plan {
@@ -47,6 +47,55 @@
 .donate-card {
     display: flex;
     padding: 50px;
+}
+
+.donate h1 {
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+.donate-plan h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.donate p {
+    padding-bottom: 20px;
+}
+
+.amount {
+    display: flex;
+    margin: 50px;
+    padding-left: 350px;
+}
+
+.bg {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px 30px;
+    background-color: rgba(202, 194, 184, 0.275);
+}
+
+.bg1 {
+    border: 2px solid orangered;
+    padding: 20px 30px;
+    color: orangered;
+    background-color: rgba(236, 167, 148, 0.275);
+    border-radius: 3px;
+}
+
+
+
+#donation {
+    padding-bottom: 15px;
+    padding-left: 400px;
+    padding-right: 350px;
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+}
+
+#input {
+    margin-bottom: 40px;
 }
 
 .card {
@@ -81,6 +130,33 @@
 
 .get-update {
     text-align: center;
+}
+
+.get-update h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.input-subscribe {
+    background-color: rgba(229, 176, 158, 0.427);
+    padding: 40px;
+    margin: 50px 350px;
+    border-radius: 5px;
+}
+
+.email-input {
+    padding: 7px;
+    border: hidden;
+    background-color: rgba(0, 0, 0, 0.136);
+}
+
+.subscribe-btn {
+    padding: 8px 20px;
+    background-color: orangered;
+    color: white;
+    border: hidden;
+    border-radius: 3px;
+    margin-left: -4px;
 }
 
 footer {
