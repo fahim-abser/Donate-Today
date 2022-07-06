@@ -9,7 +9,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-
 .header {
     background-image: url(./images/donation4.jpg);
     text-align: center;
@@ -91,8 +90,6 @@ body {
     border-radius: 3px;
 }
 
-
-
 #donation {
     padding-bottom: 15px;
     padding-top: 15px;
@@ -111,6 +108,19 @@ body {
     background-color: antiquewhite;
     margin: 10px;
     padding-bottom: 50px;
+}
+
+.description-area {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width h3 {
+    padding-left: 200px;
+    font-size: 35px;
 }
 
 .bg-color1 {
@@ -136,6 +146,16 @@ body {
     padding: 15px;
 }
 
+.flood-img {
+    display: flex;
+    padding: 30px 0px 30px 150px;
+}
+
+.size {
+    height: 180px;
+    width: 250px;
+    padding: 10px;
+}
 
 .get-update {
     text-align: center;
