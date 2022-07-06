@@ -151,6 +151,10 @@ body {
     padding: 30px 0px 30px 150px;
 }
 
+.description-area h3 {
+    padding-top: 20px;
+}
+
 .size {
     height: 180px;
     width: 250px;
